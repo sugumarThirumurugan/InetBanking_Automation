@@ -1,0 +1,90 @@
+16:18:39.045 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passes
+20:16:24.778 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+20:16:25.382 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+20:16:25.567 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+20:16:43.385 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+20:16:53.606 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+20:16:56.788 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+20:17:01.301 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+20:17:29.064 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+20:18:59.741 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+20:19:00.353 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+20:19:00.718 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+20:19:22.141 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+20:19:28.406 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+20:19:40.157 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+20:19:46.726 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+20:20:16.411 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+20:20:16.873 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+20:20:17.052 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+20:20:33.773 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+20:20:38.715 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+20:20:43.417 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+20:20:50.761 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+20:21:22.536 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+21:00:10.656 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+21:00:12.642 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+21:00:12.829 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+21:00:34.578 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+21:00:40.295 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+21:00:48.346 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+21:00:56.355 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+21:03:35.837 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+21:03:36.609 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+21:03:38.514 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+21:04:00.597 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+21:04:12.499 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+21:04:16.961 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+21:04:22.363 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+21:25:34.381 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+21:27:42.250 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+21:29:16.303 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+21:29:24.245 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+21:29:24.438 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+21:29:58.554 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+21:30:09.265 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+21:30:12.155 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+21:30:15.758 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+21:31:01.046 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+10:44:41.776 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+10:44:44.797 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+10:44:48.316 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+10:45:51.686 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+10:49:50.024 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+10:49:55.155 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+10:50:00.259 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+10:50:03.907 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+10:51:59.173 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+10:52:04.364 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+10:52:08.699 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+10:52:14.048 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+10:55:38.256 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+10:55:39.730 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+10:55:40.206 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+10:56:19.366 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+10:56:23.371 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+10:56:26.173 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+10:56:30.500 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+10:57:10.979 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
+12:28:54.076 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+12:29:05.626 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+12:29:05.811 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+12:29:49.351 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+12:29:56.015 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+12:30:00.547 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+12:30:04.801 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+13:47:31.136 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+13:47:31.721 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+13:47:31.890 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+13:48:26.240 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+13:48:32.573 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+13:48:35.337 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+13:48:39.141 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+13:52:22.148 [main] INFO  com.inetBanking.testCases.BaseClass - URL is Loaded
+13:52:25.161 [main] INFO  com.inetBanking.testCases.BaseClass - userName is Entered
+13:52:25.341 [main] INFO  com.inetBanking.testCases.BaseClass - Password is Entered
+13:53:08.732 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+13:53:13.649 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+13:53:19.284 [main] WARN  com.inetBanking.testCases.BaseClass - LoginFailed
+13:53:34.748 [main] INFO  com.inetBanking.testCases.BaseClass - LoginSucessfully Done
+13:54:22.315 [main] INFO  com.inetBanking.testCases.BaseClass - Test Case Passed
